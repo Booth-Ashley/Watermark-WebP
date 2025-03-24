@@ -36,7 +36,7 @@ cd watermark-webp
 3. Run the script:
 
 ```bash
-python watermark.py
+python watermark-webp.py
 ```
 
 4. The watermarked images will be saved in the `output` folder.
