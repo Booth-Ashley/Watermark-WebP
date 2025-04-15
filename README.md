@@ -1,8 +1,12 @@
 # Watermark WebP
 
+<a href="#"><img src="https://github.com/user-attachments/assets/e8e564cf-d316-4a5d-8a7e-612903ee74e5" /></a>
+
 A simple Python script to add a watermark to `.webp` images. The script scans an `input` folder for images, applies a diagonal watermark, and saves the processed images to an `output` folder.
 
 I created this since i was working on my blog and wanted a 1-click solution to apply a watermark to a batch of images. 
+
+Demo:
 
 https://github.com/user-attachments/assets/e35a2feb-4c82-4877-af78-fb4b35001fa1
 
